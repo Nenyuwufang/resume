@@ -1,0 +1,5 @@
+# 系统/临时文件
+Thumbs.db
+.DS_Store
+_*.png
+*.tmp
